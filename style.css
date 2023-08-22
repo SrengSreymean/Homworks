@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    font-family: 'Roboto Slab', serif;
+    
+}
+.ex1{
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    overflow: hidden;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    }
+tr td{
+    font-size: 20px;
+}    
+
+
